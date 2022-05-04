@@ -1,2 +1,2 @@
 # Python-Mac-Changer
-This is a mac changer which is made using python .This works in linux machines .
+A simple and running mac changer made using python with various python functions.
